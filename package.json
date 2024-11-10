@@ -8,9 +8,9 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "Koutaro Mukai",
+  "license": "GPL-3.0",
+  "description": "A unified plugin that converts AsciiDoc content into hast, enabling seamless AsciiDoc parsing within unified pipelines.",
   "devDependencies": {
     "@types/node": "^22.9.0",
     "typescript": "^5.6.3"
