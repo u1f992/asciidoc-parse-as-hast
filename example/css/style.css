@@ -1,4 +1,5 @@
 @page {
     size: A5;
-    background-color: red;
+    bleed: 3mm;
+    marks: crop cross;
 }
